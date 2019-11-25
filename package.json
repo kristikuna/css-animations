@@ -4,7 +4,7 @@
 	"description": "Landing Page",
 	"main": "index.js",
 	"scripts": {
-		"compile:sass": "node-sass sass/main.scss css/style.css -w"
+		"scss": "node-sass sass/main.scss css/style.css -w"
 	},
 	"repository": {
 		"type": "git",
@@ -15,7 +15,7 @@
 	"bugs": {
 		"url": "https://github.com/kristibyrnes/css-animations/issues"
 	},
-	"homepage": "https://github.com/kristibyrnes/css-animations#readme",
+	"homepage": "https://github.com/kristibyrnes/css-animations#readmwe",
 	"devDependencies": {
 		"node-sass": "^4.12.0"
 	}
